@@ -6,6 +6,7 @@ import random
 # Obtener los numeros pares e impares de una lista y un diccionario en una  linea de codigo
 # Usar random para modificar lista y dicc
 # El resultado seleccionar de forma aleatoria 2 elementos
+
 a = [1,2,3,4,5,6,7,8,9,10,11,12,13]
 b = {"A":2,"B":5,"C":9,"D":7,"E":3,"F":13,"G":16}
 
